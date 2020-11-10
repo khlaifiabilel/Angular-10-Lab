@@ -1,6 +1,15 @@
 ![Angular](https://miro.medium.com/max/3000/1*dvoezNJPzyU8qg4n8EdTdQ.png)
 
-# Test
+# About 
+
+In this tutorial, I will show you how to build an Angular 10 CRUD Application to consume Web APIs, display, modify & search data. You may chec different branches for more information :
+
+| Branch | Description |
+| --- | --- |
+| main | Angular 10 files genrated using the Angular 10 CLI |
+| angular-firebase | Angular 10 App with Firebase Realtime Database |
+
+# Start the Lab in your machine (Using VS Code)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
