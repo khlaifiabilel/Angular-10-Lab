@@ -1,3 +1,5 @@
+![Angular](https://miro.medium.com/max/3000/1*dvoezNJPzyU8qg4n8EdTdQ.png)
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
