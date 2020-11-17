@@ -25,6 +25,7 @@
     "rxjs": "~6.6.0",
     "superstatic": "^7.0.1",
     "tslib": "^2.0.0",
+    "uikit": "^3.5.9",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
