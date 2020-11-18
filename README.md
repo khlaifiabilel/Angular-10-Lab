@@ -1,4 +1,4 @@
-![Angular](https://miro.medium.com/max/3000/1*dvoezNJPzyU8qg4n8EdTdQ.png)
+![Angular](https://camo.githubusercontent.com/c67017443d1e101589785d89783b52ce316da58f202d285969dc996645229c2e/68747470733a2f2f6a65726f75772e6e6c2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f6e6766626d642e706e67)
 
 # About 
 
