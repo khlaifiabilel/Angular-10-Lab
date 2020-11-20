@@ -1,19 +1,30 @@
-/* nav bar */ 
-
-<nav class="uk-navbar-container" uk-navbar>
-
-    <div class="uk-navbar-left">
-        <ul class="uk-navbar-nav">
-            <li class="uk-active"><a href="#">Home</a></li>
-            <li><a href="#">List of programmers</a></li>
-            <li><a href="#">About</a></li>
-        </ul>
-    </div>
-
-    <div class="uk-navbar-right">
-        <ul class="uk-navbar-nav">
-            <li class="uk-active"><a href="#">Connect</a></li>
-        </ul>
-    </div>
-
-</nav>
+<div class="uk-container uk-container-expand uk-background-primary">
+	<nav class="uk-navbar uk-light" data-uk-navbar="mode:click">
+		<div class="uk-navbar-left">
+			<a class="uk-navbar-item uk-logo" href="/home">Home</a>
+			<ul class="uk-navbar-nav uk-visible@m">
+                <li class="uk-active"><a href="/list">List of Projects</a></li>
+                <li class="uk-active"><a href="/help">Help</a></li>
+				<li class="uk-active"><a href="/about">About</a></li>
+			</ul>
+		</div>
+		<div class="uk-navbar-right">
+			<ul class="uk-navbar-nav">
+				<li><a href="#" data-uk-icon="icon:user"></a>
+					<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+					    <ul class="uk-nav uk-navbar-dropdown-nav">
+				    	<li class="uk-nav-header">YOUR ACCOUNT</li>
+						    <li><a href="#"><span data-uk-icon="icon: user"></span>  Creat an ACCOUNT</a></li>
+						    <li class="uk-nav-divider"></li>
+                            <li><a href="#"><span data-uk-icon="icon: unlock"></span>  Reset Password</a></li>
+                            <li class="uk-nav-divider"></li>
+						    <li><a href="/login"><span data-uk-icon="icon: sign-in"></span>  Login</a></li>
+						    <li><a href="#"><span data-uk-icon="icon: sign-out"></span>  Logout</a></li>
+					    </ul>
+					</div>
+				</li>
+				<li><a href="#" data-uk-icon="icon: settings"></a></li>
+			</ul>
+		</div>
+	</nav>
+</div>
